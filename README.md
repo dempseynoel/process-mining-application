@@ -1,6 +1,6 @@
 # R Shiny Process Mining Tool
 
-*A recreation of a private repository.*
+*A recreation of a private repository I've prevously made.*
 
 An R Shiny process mining tool to aid in demonstrations and bid development where usage of commerical process mining tools are unavailable. Interact with the tool and example event log **[here](https://ndrshiny.shinyapps.io/process_mining_application/)**.
 
