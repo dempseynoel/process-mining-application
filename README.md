@@ -24,6 +24,6 @@ This tool is not yet fully optimised - it may run slower when using very large d
 
 ## Example
 <p align="center">
-<img width="1429" alt="example" src="https://user-images.githubusercontent.com/38509541/203417111-35f155e7-14e4-4b3d-b70c-46a9a6414e58.PNG">
+<img width="1429" alt="example" src="https://github.com/dempseynoel/process-mining-application/blob/main/process_mining_app_image.png">
 </p>
 
